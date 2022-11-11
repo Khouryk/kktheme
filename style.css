@@ -1,0 +1,56 @@
+/*
+Theme Name: KK's Theme
+Theme URI: 
+Author: Khoury Kennedy
+Author URI: https://khourykennedy.com
+Version: 1.1.0
+License: GNU General Public License v2 or Later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+Text Domiain: kktheme
+*/
+
+header{
+    background: rgb(116, 116, 161);
+    color:rgb(230, 229, 229);
+    padding: 1rem;
+}
+
+h1 a{
+    text-decoration: none;
+    color:white;
+    text-decoration: none;
+}
+
+h2 a{
+    color: rgb(116, 116, 161);
+    text-decoration: none;
+    
+}
+
+.text-container{
+    border-radius: 20px;
+    padding: 1.5rem;
+    margin: 1rem;
+    background:rgb(230, 229, 229);
+
+}
+
+.featured-image{
+    margin: 1rem;
+    padding: 1.5rem;
+
+}
+
+.text-container-post{
+    background: white;
+
+}
+
+.featured-image-single{
+    margin: 4rem 0rem;
+}
+
+.featured-image-single p{
+    color:rgb(116, 116, 161);
+}
+
