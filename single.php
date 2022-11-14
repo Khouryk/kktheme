@@ -22,6 +22,11 @@
             
                 }
             }
+            //comment form
+            comment_form();
+
+            //comments template
+            comments_template();
 
         ?>
     </main>

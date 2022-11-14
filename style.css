@@ -54,3 +54,19 @@ h2 a{
     color:rgb(116, 116, 161);
 }
 
+
+form#commentform{
+    background: #f2f2f2;
+    padding: 35px;
+    max-width: 440px;
+}
+
+.individual-comment{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.individual-comment:nth-child(odd){
+    background: #f2f2f2;
+    padding: 10px;
+}
