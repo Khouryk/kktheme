@@ -70,3 +70,26 @@ form#commentform{
     background: #f2f2f2;
     padding: 10px;
 }
+
+.col-md-4 {
+    list-style: none;
+    padding: 20px;
+    color: white;
+}
+
+
+.col-md-4 a{
+    color: white;
+}
+
+footer{
+    background: #29ABE2 ;
+}
+
+/* search button style */
+input#searchsubmit {
+    color: #29ABE2 ;
+    border-radius: 10px;
+    outline: none;
+}
+
